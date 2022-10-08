@@ -2,3 +2,5 @@
  hi
  hello
  updated
+ git stash
+ cherry-pick
