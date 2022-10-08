@@ -4,3 +4,4 @@
  updated
  git stash
  cherry-pick
+ commit
